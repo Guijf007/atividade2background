@@ -1,0 +1,14 @@
+button{
+    height: 200px;
+    width: 300px;
+}
+div{
+    height: 400px;
+    width: 400px;
+    border: 2px solid black;
+    background-size:contain;
+}
+img{
+    height: 200px;
+    width: 300px;
+}
